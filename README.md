@@ -27,23 +27,23 @@
 *Ниже будут добавлены скриншоты, иллюстрирующие ключевые шаги установки.*
 
 ### <a name="screenshots-folder"></a> 1. Структура распакованной сборки
-![Структура папки](https://images/FolderSructure.png)  
+![Структура папки](Images/FolderSructure.png)  
 *Пример: как должны выглядеть файлы после распаковки архива (папки config, mods, kubejs и т.д.).*
 
 ### <a name="screenshots-forge-install"></a> 2. Установка Forge через официальный установщик
-![Установка Forge](images/ForgeInstall.png)  
+![Установка Forge](Images/ForgeInstall.png)  
 *Окно установщика Forge: выберите "Install client" и укажите путь к .minecraft.*
 
 ### <a name="screenshots-official"></a> 3. Настройка установки в официальном лаунчере
-![Шаг 1](images/MLauncher1.png)
-![Шаг 2](images/MLauncher2.png)
-![Шаг 3](images/MLauncher3.png)
+![Шаг 1](Images/MLauncher1.png)
+![Шаг 2](Images/MLauncher2.png)
+![Шаг 3](Images/MLauncher3.png)
 *Создание новой установки: выбор версии, указание папки игры и редактирование аргументов JVM.*
 
 ### <a name="screenshots-tlauncher"></a> 4. Создание сборки в TLauncher через TLMods
-![Шаг 1](images/TLauncher1.jpg)
-![Шаг 2](images/Tlauncher2.jpg)
-![Шаг 3](images/Tlauncher3.jpg) 
+![Шаг 1](Images/TLauncher1.jpg)
+![Шаг 2](Images/Tlauncher2.jpg)
+![Шаг 3](Images/Tlauncher3.jpg) 
 *Окно создания сборки в TLMods (кнопка «Создать» в правом нижнем углу): выбор версии Forge 47.4.13, настройка памяти и отключение лишних опций.*
 
 ---
