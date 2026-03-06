@@ -27,7 +27,7 @@
 *Ниже будут добавлены скриншоты, иллюстрирующие ключевые шаги установки.*
 
 ### <a name="screenshots-folder"></a> 1. Структура распакованной сборки
-![Структура папки](images/FolderSructure.png)  
+![Структура папки](https://images/FolderSructure.png)  
 *Пример: как должны выглядеть файлы после распаковки архива (папки config, mods, kubejs и т.д.).*
 
 ### <a name="screenshots-forge-install"></a> 2. Установка Forge через официальный установщик
